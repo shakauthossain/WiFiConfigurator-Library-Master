@@ -5,7 +5,7 @@
  * check if the configuration needs to be saved in the loop function.
  * This is for using Blynk IoT Cloud using ESP8266 and AHT20 I2C Sensor.
  * This library is developed by Shakaut Hossain (https://github.com/shakauthossain)
- * Download the library from the link - ********************
+ * Download the library from the link - https://github.com/shakauthossain/WiFiConfigurator-Library-Master
 
 
   **********************************************************************************************************
