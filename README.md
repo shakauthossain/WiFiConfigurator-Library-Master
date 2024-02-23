@@ -1,4 +1,4 @@
-Title: Introducing WiFiConfigurator: Simplifying WiFi Connectivity for ESP32 and ESP8266
+**Title:** Introducing WiFiConfigurator: Simplifying WiFi Connectivity for ESP32 and ESP8266
 
 **Introduction:**
 I am thrilled to announce the release of WiFiConfigurator, a groundbreaking Arduino library that aims to simplify WiFi connectivity for ESP32 and ESP8266 microcontrollers. After extensive development and testing, I am excited to share this powerful tool with the Arduino community, empowering developers to effortlessly connect their projects to WiFi networks.
