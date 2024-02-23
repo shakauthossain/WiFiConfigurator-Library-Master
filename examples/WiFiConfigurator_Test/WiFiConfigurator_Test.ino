@@ -4,7 +4,7 @@
  * In this example, we initialize the WiFi configuration in the setup function and
  * check if the configuration needs to be saved in the loop function.
  * This library is developed by Shakaut Hossain (https://github.com/shakauthossain)
- * Download the library from the link - ********************
+ * Download the library from the link - https://github.com/shakauthossain/WiFiConfigurator-Library-Master
 
   **********************************************************************************************************
   *                                                                                                        *
@@ -18,7 +18,7 @@
 
 */
 
-#include <WiFiConfigurator.h>                 //Download the library from ******************
+#include <WiFiConfigurator.h>                 //Download the library from https://github.com/shakauthossain/WiFiConfigurator-Library-Master
 
 WiFiConfigurator wifiConfigurator;            // Create an instance of the WiFiConfigurator class
 
